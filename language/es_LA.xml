@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+    <display_name>Shortcode para Spreaker</display_name>
+    <icon>fa-folume-up</icon>
+    <description>
+        Shortcode para incrustar podcasts de Spreaker en posts.
+        Port del plugin oficial de Wordpress.
+    </description>
+    
+    <type_unsupported>El tipo de widget no está soportado.</type_unsupported>
+    <missing_resource>El atributo del recurso (user_id, show_id or episode_id) no se ha encontrado en el shortcode.</missing_resource>
+    <invalid_resource>El atributo del recurso es inválido.</invalid_resource>
+    
+</language>
